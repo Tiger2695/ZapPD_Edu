@@ -1,0 +1,23 @@
+> Functionality in points
+
+
+✅ Include:
+
+
+1. Drag & Drop PDF support (multi-file)
+
+2. Auto-trim logic (Edu variant)
+
+3. Image conversion via PyMuPDF (DPI 72)
+
+4. Image naming: (1).jpg, (2).jpg...
+
+5. Parallel page processing (fast!)
+
+6. Automatic folder + zip creation
+
+7. Portable .exe — no Python needed
+
+8. Secure zip password (optional, Edu)
+
+9 Logging to pdf_converter.log

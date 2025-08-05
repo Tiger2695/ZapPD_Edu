@@ -1,0 +1,20 @@
+ZapPD_Edu - PDF to Image Converter with Trimming Logic
+
+Copyright (c) 2025 Chitransh Mankar
+
+All rights reserved.
+
+You are granted permission to use this software for personal, internal, or educational purposes only.
+
+🚫 You MAY NOT:
+- Sell, redistribute, or host this software publicly.
+- Modify, reverse-engineer, or remove the branding.
+- Claim authorship or rebrand this tool without permission.
+
+This tool is provided "as-is" without warranty.
+Unauthorized distribution or usage beyond permitted scope will be considered copyright violation.
+
+For official licensing or permission, contact the developer.
+
+Developer: Chitransh Mankar  
+Contact: chitranshm13@gmail.com
